@@ -63,7 +63,7 @@ Grey Wolf Optimization Algorithm was taken as reference for optimization for tes
 ---
 
 ### IEEE IUT Student Branch
-*** Chairperson                    (February 2021 – April 2022)***
+***Chairperson                    (February 2021 – April 2022)***
  
 * Arranged annual fests , workshops leading a team of 30 people.
 * Collaborated with IEEE Bangladesh Section, other student branches.
@@ -71,7 +71,7 @@ Grey Wolf Optimization Algorithm was taken as reference for optimization for tes
 
 
 ### IoT For Bangladesh               
-*** Social Media Coordinator        (July 2020 – April 2021)***
+***Social Media Coordinator        (July 2020 – April 2021)***
  
 * Studied IoT related work, projects, and articles.
 * Researched audience preferences and discover current trends in the field of technology.
@@ -79,7 +79,7 @@ Grey Wolf Optimization Algorithm was taken as reference for optimization for tes
 * Created engaging text and captions.
 
 ### IUT Career and Business Society
-*** Junior Executive                (February 2019-February 2020)***
+***Junior Executive                (February 2019-February 2020)***
 
 * Organized Business case-solving workshops, idea sessions.
 * Played role as volunteer to arrange Career and Education Fares
