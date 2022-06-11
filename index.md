@@ -7,15 +7,15 @@ title: Curriculum Vitae of Ahmad Jarif Yeasir
 ## EDUCATION
 ---
 ### Islamic University of Technology  
-*Bachelor of Science in Electrical & Electronic Engineering **(Jan 2018 - May 2022)**  
+**Bachelor of Science in Electrical & Electronic Engineering** **(Jan 2018 - May 2022)**  
 CGPA: **3.78** (out of **4.00**) 
 
 ### Notre Dame College
-*HSC*  
+**HSC**                                                        **(June 2015 - May 2017)**  
 Result: **GPA 5.0/5.0, Board Scholarship (Dhaka)**
 
-### St. Joseph Higher Secondary School
-*SSC*  
+### St. Joseph Higher Secondary School                         **(Jan 2013 - April 2015)**
+**SSC**                                                        
 Result: **GPA 5.0/5.0, Board Scholarship (Dhaka)**
 
 <br />
