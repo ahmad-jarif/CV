@@ -61,13 +61,13 @@ Grey Wolf Optimization Algorithm was taken as reference for optimization for tes
  ---
 ## VOLUNTEER EXPERIENCE
 ---
+
+### IEEE IUT Student Branch
+*** Chairperson                    (February 2021 – April 2022)***
  
- ### IEEE IUT Student Branch
- *** Chairperson                    (February 2021 – April 2022)***
- 
- * Arranged annual fests , workshops leading a team of 30 people.
- * Collaborated with IEEE Bangladesh Section, other student branches.
- * Arranged annual fests including GPH Ispat presents ‘Esho Robot Banai’, Robi Dathathon , competitions, sessions & different workshops- PCB Crash Course Design, LFR workshop, Machine Learning workshop inside IUT.
+* Arranged annual fests , workshops leading a team of 30 people.
+* Collaborated with IEEE Bangladesh Section, other student branches.
+* Arranged annual fests including GPH Ispat presents ‘Esho Robot Banai’, Robi Dathathon , competitions, sessions & different workshops- PCB Crash Course Design, LFR workshop, Machine Learning workshop inside IUT.
 
 
 ### IoT For Bangladesh               
