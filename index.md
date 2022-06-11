@@ -7,7 +7,7 @@ title: Curriculum Vitae of Ahmad Jarif Yeasir
 ## EDUCATION
 ---
 ### Islamic University of Technology  
-*Bachelor of Science in Electrical & Electronic Engineering (Jan 2018 - May 2022)*  
+*Bachelor of Science in Electrical & Electronic Engineering **(Jan 2018 - May 2022)**  
 CGPA: **3.78** (out of **4.00**) 
 
 ### Notre Dame College
