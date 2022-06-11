@@ -57,7 +57,59 @@ Grey Wolf Optimization Algorithm was taken as reference for optimization for tes
 *Abstract: In recent years, many new designs with great sensitivity have been introduced in the field of SPR based PCF sensors. Designing is challenging since most designs exhibit high sensitivity and high loss or have low sensitivity and low loss. In order to achieve high sensitivity, designs become complex. Our work is focused on the PCF-SPR sensors that are fabricate friendly and have high sensitivity with low loss.*  
 
 <br />
-  
+ 
+ ---
+## VOLUNTEER EXPERIENCE
+---
+ 
+ ### IEEE IUT Student Branch
+ *** Chairperson                    (February 2021 – April 2022)***
+ 
+ * Arranged annual fests , workshops leading a team of 30 people.
+ * Collaborated with IEEE Bangladesh Section, other student branches.
+ * Arranged annual fests including GPH Ispat presents ‘Esho Robot Banai’, Robi Dathathon , competitions, sessions & different workshops- PCB Crash Course Design, LFR workshop, Machine Learning workshop inside IUT.
+
+
+### IoT For Bangladesh               
+*** Social Media Coordinator        (July 2020 – April 2021)***
+ 
+* Studied IoT related work, projects, and articles.
+* Researched audience preferences and discover current trends in the field of technology.
+* Promoted IoT in a way that will be desirable for the audience.
+* Created engaging text and captions.
+
+### IUT Career and Business Society
+*** Junior Executive                (February 2019-February 2020)***
+
+* Organized Business case-solving workshops, idea sessions.
+* Played role as volunteer to arrange Career and Education Fares
+
+<br />
+
+---
+## CERTIFICATIONS
+---
+
+### Grameenphone Explorers' 2.0
+
+* Basic Communication, Digital Literacy
+* Entrepreneurial Mindset, Teamwork
+* Customer Centricity
+* Problem Solving
+
+### Coursera
+
+* Programming for Everybody(Python)
+* Introduction to Augmented Reality & AR Core
+
+### LinkedIn
+
+* IoT Foundations
+* Networking Foundations
+* Cybersecurity Foundations
+
+<br />
+
 ---
 ## SKILLS  
 ---
@@ -66,6 +118,8 @@ Grey Wolf Optimization Algorithm was taken as reference for optimization for tes
 * **Simulation Softwares:** Proteus, Pspice, COMSOL, CST Studio Suite, Ansoft Designer
 * **Office Tools:** Microsoft Office Suite (Word, Excel, Powepoint), GSuite (Drive,Google Docs, Sheets, Slides, Forms)
 * **Visual Software:** Adobe Essentials (Illustrator, Photoshop, Lightroom)
+
+<br />
 
 ---
 ## COURSEWORKS
