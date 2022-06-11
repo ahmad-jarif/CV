@@ -37,7 +37,7 @@ Result: **GPA 5.0/5.0, Board Scholarship (Dhaka)**
 
 * Detected the condition of eyes from MATLAB using Image Processing Techniques. [MATLAB Image Processing Project] (https://drive.google.com/drive/u/0/folders/1PimQY5LHOzlkEVxFf6T7HUnrxQlBddEK)
 
-### Base-5 Digital Calculator with ALU and Memory Unit: Design and Implementation (Digital Electronics Lab)
+### Base-5 Digital Calculator with ALU and Memory Unit: Design & Implementation (Digital Electronics Lab)
 
 * Designed the Adder, Subtractor and Multiplier circuits and subcircuits on Proteus 8 simulation software. [Proteus Simulation DLD Project] (https://drive.google.com/drive/u/0/folders/1PimQY5LHOzlkEVxFf6T7HUnrxQlBddEK)
 * Constructed PCB layout of both the Arithmetic Logic Unit (ALU) & Memory unit and printed them out.
