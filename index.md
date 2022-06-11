@@ -33,11 +33,11 @@ Result: **GPA 5.0/5.0, Board Scholarship (Dhaka)**
 ## ACADEMIC PROJECTS
 ---
 
-### Automated Diagnosis Of Diabetic Retinopathy using MATLAB (Random Signal & Processing Lab)
+### Automated Diagnosis Of Diabetic Retinopathy using MATLAB (Random Signal and Processing Lab)
 
 * Detected the condition of eyes from MATLAB using Image Processing Techniques. [MATLAB Image Processing Project] (https://drive.google.com/drive/u/0/folders/1PimQY5LHOzlkEVxFf6T7HUnrxQlBddEK)
 
-### Base-5 Digital Calculator with ALU & Memory Unit : Design & Implementation (Digital Electronics Lab)
+### Base-5 Digital Calculator with ALU and Memory Unit: Design and Implementation (Digital Electronics Lab)
 
 * Designed the Adder, Subtractor and Multiplier circuits and subcircuits on Proteus 8 simulation software. [Proteus Simulation DLD Project] (https://drive.google.com/drive/u/0/folders/1PimQY5LHOzlkEVxFf6T7HUnrxQlBddEK)
 * Constructed PCB layout of both the Arithmetic Logic Unit (ALU) & Memory unit and printed them out.
@@ -51,7 +51,7 @@ Grey Wolf Optimization Algorithm was taken as reference for optimization for tes
 <br />
 
 ---
-## Thesis & Publications
+## Thesis and Publications
 ---
 ### Thesis Title: Surface Plasmon Resonance based PCF Sensor Design  
 *Abstract: In recent years, many new designs with great sensitivity have been introduced in the field of SPR based PCF sensors. Designing is challenging since most designs exhibit high sensitivity and high loss or have low sensitivity and low loss. In order to achieve high sensitivity, designs become complex. Our work is focused on the PCF-SPR sensors that are fabricate friendly and have high sensitivity with low loss.*  
@@ -67,7 +67,8 @@ Grey Wolf Optimization Algorithm was taken as reference for optimization for tes
  
 * Arranged annual fests , workshops leading a team of 30 people.
 * Collaborated with IEEE Bangladesh Section, other student branches.
-* Arranged annual fests including GPH Ispat presents ‘Esho Robot Banai’, Robi Dathathon , competitions, sessions & different workshops- PCB Crash Course Design, LFR workshop, Machine Learning workshop inside IUT.
+* Arranged annual fests including GPH Ispat presents ‘Esho Robot Banai’, Robi Dathathon , competitions, sessions & different workshops. 
+* PCB Crash Course Design, LFR workshop, Machine Learning workshop inside IUT.
 
 
 ### IoT For Bangladesh               
