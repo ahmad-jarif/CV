@@ -57,7 +57,7 @@ Grey Wolf Optimization Algorithm was taken as reference for optimization for tes
 *Abstract: In recent years, many new designs with great sensitivity have been introduced in the field of SPR based PCF sensors. Designing is challenging since most designs exhibit high sensitivity and high loss or have low sensitivity and low loss. In order to achieve high sensitivity, designs become complex. Our work is focused on the PCF-SPR sensors that are fabricate friendly and have high sensitivity with low loss.*  
 
 ### Publications
-Title: **Design of a Dual Spider Shaped SPR based Refractometric Sensor with High Amplitude Sensitivity**
+Title: **Design of a Dual Spider Shaped SPR based Refractometric Sensor with High Amplitude Sensitivity** *Impact Factor: 1.636*
 *IET Optoelectronics (15th November, 2022)*  
 
 
