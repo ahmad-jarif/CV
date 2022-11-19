@@ -35,18 +35,18 @@ Result: **GPA 5.0/5.0, Board Scholarship (Dhaka)**
 
 ### Automated Diagnosis Of Diabetic Retinopathy using MATLAB (Random Signal and Processing Lab)
 
-* Detected the condition of eyes from MATLAB using Image Processing Techniques. **[MATLAB Image Processing Project] <https://drive.google.com/drive/u/0/folders/1PimQY5LHOzlkEVxFf6T7HUnrxQlBddEK>**
+* Detected the condition of eyes from MATLAB using Image Processing Techniques. **[MATLAB Image Processing Project]**
 
 ### Base-5 Digital Calculator with ALU and Memory Unit: Design and Implementation (Digital Electronics Lab)
 
-* Designed the Adder, Subtractor and Multiplier circuits and subcircuits on Proteus 8 simulation software. **[Proteus Simulation DLD Project] <https://drive.google.com/drive/u/0/folders/1PimQY5LHOzlkEVxFf6T7HUnrxQlBddEK>**
+* Designed the Adder, Subtractor and Multiplier circuits and subcircuits on Proteus 8 simulation software. **[Proteus Simulation DLD Project]**
 * Constructed PCB layout of both the Arithmetic Logic Unit (ALU) & Memory unit and printed them out.
 * Collected the Hardware parts (ICs, IC bases, Jumper wires, Soldering Iron, Soldering Wire, Glue gun, Breadboard, Multimeter, Cork sheet, 7 segment display, Tape, Screw Set)
 
 ### Chaotic Grey Wolf Optimization Algorithm (Optimization Lab)
 
 * Meta-heurestic optimization Algorithm for Single Objective Optimization (SSO):
-Grey Wolf Optimization Algorithm was taken as reference for optimization for tested benchmark functions. Chaos theory was added to improve the convergence rate ensuring a faster generation of convergence curve. Avoiding local minima was another fantastic feature for the CGWO Algorithm.**[CGWO Optimization Algorithm Project]    <https://drive.google.com/drive/u/0/folders/1PimQY5LHOzlkEVxFf6T7HUnrxQlBddEK>**
+Grey Wolf Optimization Algorithm was taken as reference for optimization for tested benchmark functions. Chaos theory was added to improve the convergence rate ensuring a faster generation of convergence curve. Avoiding local minima was another fantastic feature for the CGWO Algorithm.**[CGWO Optimization Algorithm Project]**   
 
 <br />
 
@@ -55,6 +55,12 @@ Grey Wolf Optimization Algorithm was taken as reference for optimization for tes
 ---
 ### Thesis Title: Surface Plasmon Resonance based PCF Sensor Design  
 *Abstract: In recent years, many new designs with great sensitivity have been introduced in the field of SPR based PCF sensors. Designing is challenging since most designs exhibit high sensitivity and high loss or have low sensitivity and low loss. In order to achieve high sensitivity, designs become complex. Our work is focused on the PCF-SPR sensors that are fabricate friendly and have high sensitivity with low loss.*  
+
+### Publications
+Title: **Design of a Dual Spider Shaped SPR based Refractometric Sensor with High Amplitude Sensitivity**
+*IET Optoelectronics (15th November, 2022)*  
+
+
 
 <br />
  
